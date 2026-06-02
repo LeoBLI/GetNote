@@ -3,3 +3,4 @@ logs/
 .claude/
 __pycache__/
 *.pyc
+sync_state.json
